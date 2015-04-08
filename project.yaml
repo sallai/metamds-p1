@@ -1,5 +1,5 @@
 title: test project
 path:
   - /opt/hoomd_local
-  - ../metamds-cli/concepts
+  - https://github.com/iModels/metamds-cli/tree/master/concepts
   - https://raw.githubusercontent.com/iModels/metamds-cli/master/templates/python
