@@ -23,3 +23,6 @@ simulation:
       atom_type_2: 'B'
       epsilon: 1
       sigma: 1
+  - argument:
+      0:
+      1:
