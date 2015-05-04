@@ -1,0 +1,6 @@
+description: "Increment the task"
+properties:
+  - num_steps:
+      type: number
+tags: 
+  - custom

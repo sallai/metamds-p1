@@ -1,0 +1,13 @@
+description: "Regulated number, volume and temperature"
+properties:
+  - dt:
+      type: number
+  - T:
+      type: number
+  - tau:
+      type: number
+  - statements:
+      type: list
+tags: 
+  - simulations
+  - custom
