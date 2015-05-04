@@ -1,6 +1,6 @@
 lj_pair:
-  r_cut:
-  atom_type_1:
-  atom_type_2:
-  epsilon:
-  sigma:
+  r_cut: 4515
+  atom_type_1: 'Hello'
+  atom_type_2: 'hgjkh'
+  epsilon: 12
+  sigma: 15
