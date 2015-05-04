@@ -1,5 +1,5 @@
 lj_pair:
-  r_cut: 4515
+  r_cut:
   atom_type_1: 'Hello'
   atom_type_2: 'hgjkh'
   epsilon: 12
