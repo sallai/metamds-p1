@@ -1,0 +1,16 @@
+description: Auto-created concept
+properties:
+  r_cut:
+    type: string
+  atom_type_1:
+    type: string
+  atom_type_2:
+    type: string
+  epsilon:
+    type: number
+  sigma:
+    type: number
+  alpha:
+    type: number
+name: lj_pair_new
+tags: []
