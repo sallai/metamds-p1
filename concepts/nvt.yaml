@@ -1,4 +1,4 @@
-description: "Regulated number, volume and temperature"
+description: 'Regulated number, volume and temperature'
 properties:
   dt:
     type: number
@@ -7,7 +7,8 @@ properties:
   tau:
     type: number
   statements:
-      type: list
-tags: 
+    type: list
+tags:
   - simulations
   - custom
+name: nvt
