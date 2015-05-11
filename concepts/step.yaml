@@ -1,6 +1,7 @@
-description: "Increment the task"
+description: Increment the task
 properties:
   - num_steps:
       type: number
-tags: 
+tags:
   - custom
+name: step
