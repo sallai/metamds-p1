@@ -1,0 +1,11 @@
+description: function argument
+properties:
+  - name:
+      type: string
+  - value:
+      type: any
+required:
+  - name
+  - value
+name: argument
+tags: []
