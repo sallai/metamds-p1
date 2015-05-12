@@ -1,6 +1,6 @@
 lj_pair:
-  r_cut:
-  atom_type_1:
-  atom_type_2:
-  epsilon:
-  sigma:
+  r_cut: 98
+  atom_type_1: 'Hydrogen'
+  atom_type_2: 'Einsteinium'
+  epsilon: 0.001
+  sigma: 10
