@@ -1,7 +1,7 @@
 description: Auto-created concept
 properties:
   r_cut:
-    type: string
+    type: number
   atom_type_1:
     type: string
   atom_type_2:
@@ -10,7 +10,7 @@ properties:
     type: number
   sigma:
     type: number
-  alpha:
-    type: number
+  new_field:
+    type: string
 name: lj_pair_new
 tags: []
