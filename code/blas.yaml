@@ -1,6 +1,7 @@
-lj_pair:
+lj_pair_new:
   r_cut: 98
   atom_type_1: 'Hydrogen'
   atom_type_2: 'Einsteinium'
   epsilon: 0.001
   sigma: 10
+  new_field: 'something cool'
